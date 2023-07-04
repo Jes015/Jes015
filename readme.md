@@ -2,7 +2,7 @@
 
 * `Name`: **Jes015**
 * `Age`: **19**
-* `Learning`: [**Nest.js**, **React**, **JavaScript**, **TypeScript**]
+* `Learning`: [**Nest.js**, **React**, **Astro**, **TypeScript**]
 * `I love`: ***[Time manager](https://time-manager-zeta.vercel.app/)***
 * `I've worked with`: [**JavaScript**, **TypeScript**, **Java**]
 
