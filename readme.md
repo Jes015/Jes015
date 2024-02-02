@@ -4,7 +4,7 @@
 * `Age`: **19**
 * `Portfolio`: <a href='https://portfolio-three-chi-27.vercel.app/' target='_blank'>Take a look</a>
 * `Blog`: <a href='https://blog-one-murex.vercel.app/' target='_blank'>Take a look</a>
-* `Learning`: [**Next.js**, **React**, **Astro**, **TypeScript**]
+* `Learning`: [**Nest.js**, **React**, **Astro**, **TypeScript**]
 * `What i love`: ***[Time manager](https://time-manager-zeta.vercel.app/)***
   
 }
